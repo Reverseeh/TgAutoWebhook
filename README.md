@@ -8,7 +8,7 @@
 
   <br>
 
-## 🔎What is SwitchSound?
+## 🔎What is TgAutoWebhook?
 **TgAutoWebhook** is a program that serves to automate and speed up the process of setting up the webhook of a **telegram bot**
 
 ***
@@ -34,8 +34,8 @@ If you want to contact me, you can reach me at [@Reverseeh](https://t.me/Reverse
 ## 📄 License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
-SwitchSound is licensed under the GNU GPLv3.  
-[View Here.](https://github.com/Reverseeh/SwitchSound/blob/main/LICENSE)
+TgAutoWebhook is licensed under the GNU GPLv3.  
+[View Here.](https://github.com/Reverseeh/TgAutoWebhook/blob/main/LICENSE)
 
 | Permissions | Restrictions | Conditions
 | --- | --- | --- 
