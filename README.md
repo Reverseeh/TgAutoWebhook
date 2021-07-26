@@ -21,7 +21,7 @@ This is only to **support my works**, it is **not mandatory**.
 ***
 
 📷Screenshot
-<img alt="Screenshot" src="https://imgur.com/ESxpoeJ">
+<img alt="Screenshot" src="https://i.imgur.com/ESxpoeJ.png">
 
 ***
 
